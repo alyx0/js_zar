@@ -1,5 +1,5 @@
 const Player1 = {
-  name: 'Sub-zero',
+  name: 'Sub - zero',
   hp: 100,
   img: '',
   weapon 'Ice Sword',
